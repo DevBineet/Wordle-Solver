@@ -1,1 +1,2 @@
-SO wait ill add a readme when free 
+#WORDLE SOLVER 
+So, this is a wordle solver which solves 
